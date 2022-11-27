@@ -3,6 +3,10 @@
 // zum Generieren eines PDF aus VS Code (HTML muss mit eingebetteten Bildern generiert werden, damit daraus ein korrektes PDF erstellt werden kann)
 :data-uri:
 :source-highlighter: highlight.js
+ifndef::env-github[:toc: left]
+:toc-title: Inhalt
+:toclevels: 5
+
 
 == INTERLIS Model Repository
 
