@@ -11,3 +11,5 @@ Das Konzept des INTERLIS Model Repository (syn. _Datenmodell-Ablage_) sieht vor,
 
 [NOTE]
 Folgende Produkte unterstützen INTERLIS Model Repositories (Stand 2022): INTERLIS Compiler (ili2c), INTERLIS/UML Editor (umleditor), INTERLIS Validator (ilivalidator), iG/Check, infogrips INTERLIS Tools / INTERLIS Tools Pro, ili2db, FME Plug-In für INTERLIS und alle weiteren Werkzeuge, die auf obiger Software überbauen.
+
+image::img/trööt.jpg[1500,1500]
