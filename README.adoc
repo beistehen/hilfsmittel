@@ -11,9 +11,13 @@ ifndef::env-github[:toc: left]
 :chapter-label:
 :sectlinks:
 :sectanchors:
-:revdate: {docdate}
-
 
 = INTERLIS Model Repository
+Stefan Henrich <xyz@example.com>
+// Versionierung
+:revdate: {docdate}
+:revnumber: v1.0.0 
+:version-label!:
+
 
 include::Einfuehrung.adoc[]
