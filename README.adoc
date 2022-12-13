@@ -16,8 +16,8 @@ ifndef::env-github[:toc: left]
 Stefan Henrich <xyz@example.com>
 // Versionierung
 :revdate: {docdate}
-:revnumber: v1.0.0 
-:version-label!:
+:revnumber: 1.0.1 
+:version-label: v
 
 
 include::Einfuehrung.adoc[]
