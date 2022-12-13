@@ -17,7 +17,7 @@ Stefan Henrich <xyz@example.com>
 // Versionierung
 :revdate: {docdate}
 :revnumber: 1.0.1 
-:version-label: &x76;
+:version-label: &#x76;
 
 
 include::Einfuehrung.adoc[]
