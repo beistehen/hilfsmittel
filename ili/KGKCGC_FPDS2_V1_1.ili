@@ -20,14 +20,14 @@ VERSION "2022-07-14"  =
 
   DOMAIN
 
-    Genauigkeit = 0.001 .. 7.000 [INTERLIS.M];
+    Genauigkeit = 0.001 .. 7.000 [INTERLIS.M]
 
     NBIdent = TEXT*12;
 
     Zuverlaessigkeit = (
       ja,
       nein
-    )
+    );
 
   TOPIC FPDS2 =
     OID AS INTERLIS.UUIDOID;
