@@ -27,7 +27,7 @@ VERSION "2022-07-14"  =
     Zuverlaessigkeit = (
       ja,
       nein
-    );
+    )
 
   TOPIC FPDS2 =
     OID AS INTERLIS.UUIDOID;
