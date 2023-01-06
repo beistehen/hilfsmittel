@@ -1,7 +1,7 @@
 name: Check INTERLIS model
 
 on:
-  push:
+  pull_request:
     branches:
       - main
 
@@ -20,5 +20,4 @@ jobs:
         java-package: 'jre'
     - run: curl -O https://downloads.interlis.ch/ili2c/ili2c-5.3.2.zip
     - run: unzip ili2c-5.3.2.zip ili2c.jar
-    - run: ls -alp
     - run: java -jar ili2c.jar ./ili/KGKCGC_FPDS2_V1_1.ili
