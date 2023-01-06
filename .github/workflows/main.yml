@@ -27,5 +27,5 @@ jobs:
     - name: check ili files
       env:
         FILES: ./ili/*.ili
-      run: for f in $FILES; do java -jar ili2c.jar --modeldir %ILI_DIR;https://models.interlis.ch $f; done
+      run: for f in $FILES; do java -jar ili2c.jar $f; done
 
