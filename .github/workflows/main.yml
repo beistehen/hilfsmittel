@@ -1,4 +1,4 @@
-name: Check INTERLIS model
+name: Compile INTERLIS models
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  validate:
+  compile_all:
     runs-on: ubuntu-latest
     steps:
     - name: checkout
@@ -24,7 +24,7 @@ jobs:
         curl -O https://downloads.interlis.ch/ili2c/ili2c-5.3.2.zip
         unzip ili2c-5.3.2.zip ili2c.jar
 
-    - name: check ili files
+    - name: compile ili files
       env:
         FILES: ./ili/*.ili
       run: for f in $FILES; do java -jar ili2c.jar $f; done
