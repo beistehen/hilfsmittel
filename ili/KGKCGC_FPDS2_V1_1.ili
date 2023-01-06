@@ -17,6 +17,7 @@ AT "https://www.kgk-cgc.ch"
 VERSION "2022-07-14"  =
   IMPORTS CHAdminCodes_V2;
   IMPORTS GeometryCHLV95_V2;
+  IMPORTS Baase;
 
   DOMAIN
 
