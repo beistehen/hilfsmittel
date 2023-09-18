@@ -1,0 +1,19 @@
+<style>
+body{
+    text-align: center;
+    
+}
+#error{
+    margin-top: 400px;
+    color:black;
+    font: normal normal bold 81px/1 Arial Black, Gadget, sans-serif;
+
+
+}
+
+#error small{
+    font-size: 20px;
+}
+</style>
+
+<div id="error">404 <br><small>page not found</small></div>
