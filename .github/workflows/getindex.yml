@@ -1,7 +1,10 @@
 name: Get Indexes
 
 on:
-  workflow_dispatch
+  workflow_dispatch:
+  schedule:
+    - cron: '38 6,12,18 * * *'
+
 jobs:
   download-indexes:
     runs-on: ubuntu-latest
