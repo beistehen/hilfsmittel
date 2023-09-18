@@ -1,0 +1,93 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="it">
+    <head>
+        <title>Amministrazione Cantonale: errore durante l'accesso all'applicativo</title>
+        <meta http-equiv="Pragma" content="no-cache">
+        <meta http-equiv="expires" content="0">
+        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+        <meta http-equiv="Content-Language" content="it-ch">
+        <meta http-equiv="Content-Style-Type" content="text/css">        
+        <style>
+            div.bgcolore {
+            	background: #A0A0A0;
+            	padding-right:  0px;
+            	padding-left:   0px;
+            	padding-bottom: 3px;
+            	font-family: Verdana, Tahoma, Arial, sans-serif;
+            }
+            td.rosso_img {
+                background: none repeat scroll 0 0 #FF6666;
+                height: 40px;
+                padding: 15px 10px 15px 15px;
+            }
+            
+            td.rosso {
+                width: 930px;
+        	    height:40px;
+        	    background: #FF6666;
+        	    padding: 15px 5px;
+        	}
+        </style>
+	</head>
+	<body>
+        <!-- BEGIN: HEAD INTESTAZIONE -->
+        <table class="testata" summary="" cellspacing="0" cellpadding="0">
+        	<tr>
+        		<td class="percorso">
+        			<div class="bgcolore">
+        	   		</div>
+        	  	</td>
+        	</tr>
+        	<tr>
+        		<td class="grigio" colspan="2"></td>
+        	</tr>
+        </table>
+        <table class="corpo" summary="" cellpadding="0" cellspacing="0">
+        	<tr>
+        		<td class="margsup" colspan="4"></td>
+        	</tr>
+        	<tr>
+        		<td class="margsin"></td>
+                <td class="corpo">
+    			    <!-- BEGIN: CORPO CENTRALE -->
+        <table class="corpo" summary="" cellpadding="0" cellspacing="0">
+        	<tr>
+        		<td class="margsup" colspan="4"></td>
+        	</tr>
+        	<tr>
+        		<td class="margsin"></td>
+                <td class="corpo">
+    			    <!-- BEGIN: MESSAGGIO -->
+                    <table class="messaggi" summary="" cellspacing="0" cellpadding="0">
+                    	<tr>
+                    		<td>
+                    			<p class="gs">
+                    			    <h1>Pagina non disponibile</h1>
+                                </p>
+                                <p class="gs">
+                                    Siamo spiacenti, al momento l'accesso all'applicativo non è possibile.
+                                </p>
+                                <p class="gs">
+                                    Se il problema persiste contattare il Service Desk al numero 091 8141060. 
+                                </p>
+				<p class="gs">
+                                    Support ID: 13897630630931394027 
+                                </p>
+                    		</td>
+                    	</tr>
+                    </table>
+                    <table class="dati3" summary="" cellspacing="0" cellpadding="0">
+                    	<tr><td class="separatore"></td></tr>
+                    </table>
+                    <!-- END: MESSAGGIO -->
+                </td>
+        		<td class="margdes"></td>
+        	</tr>
+            </table>
+        <!-- END: CORPO CENTRALE -->
+                </td>
+        		<td class="margdes"></td>
+        	</tr>
+        </table>
+    </body>
+</html>
