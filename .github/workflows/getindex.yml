@@ -3,7 +3,8 @@ name: Get Indexes
 on:
   workflow_dispatch:
   schedule:
-    - cron: '38 6,12,18 * * *'
+    # time in UTC
+    - cron: '38 4,10,16 * * *'
 
 jobs:
   download-indexes:
