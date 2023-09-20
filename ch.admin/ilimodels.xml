@@ -17828,12 +17828,6 @@
         <IliRepository09.ModelName_>
           <value>CatalogueObjects_V1</value>
         </IliRepository09.ModelName_>
-        <IliRepository09.ModelName_>
-          <value>NoisePollutionRegisterForMilitaryShootingRanges_Codelists_V1_1</value>
-        </IliRepository09.ModelName_>
-        <IliRepository09.ModelName_>
-          <value>SectoralPlanForMilitaryInfrastructure_LV95_V1_4</value>
-        </IliRepository09.ModelName_>
       </dependsOnModel>
       <Tags>177.1</Tags>
       <Issuer>https://models.geo.admin.ch/BAFU/</Issuer>
