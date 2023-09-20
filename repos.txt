@@ -2,7 +2,6 @@
 
 # Switzerland
 https://405.sia.ch/models/
-https://geo.so.ch/models/
 https://models.geo.admin.ch/
 http://models.geo.ai.ch/
 https://models.geo.ar.ch/
@@ -15,15 +14,16 @@ https://models.geo.lu.ch/
 https://models.gis-daten.ch/nw-ow/
 https://models.geo.sg.ch/
 http://models.geo.sh.ch/
+https://geo.so.ch/models/
 https://models.geo.sz.ch/
 https://models.geo.tg.ch/
 http://models.geo.ti.ch/
+https://webgis.lisag.ch/models/
 https://models.geo.zg.ch/
 http://models.geo.zh.ch/
 http://models.interlis.ch/
 https://models.kgk-cgc.ch/
 https://vsa.ch/models/
-https://webgis.lisag.ch/models/
 
 # Liechtenstein
 https://models.geo.llv.li/
