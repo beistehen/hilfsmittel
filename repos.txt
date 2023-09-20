@@ -12,9 +12,11 @@ https://models.geo.bs.ch/
 https://models.geo.gl.ch/
 https://models.geo.gr.ch/
 https://models.geo.lu.ch/
+https://models.gis-daten.ch/nw-ow/
 https://models.geo.sg.ch/
 http://models.geo.sh.ch/
 https://models.geo.sz.ch/
+https://models.geo.tg.ch/
 http://models.geo.ti.ch/
 https://models.geo.zg.ch/
 http://models.geo.zh.ch/
