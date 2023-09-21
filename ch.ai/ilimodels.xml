@@ -1137,16 +1137,16 @@
 					<IliRepository09.ModelName_>
 						<value>LocalisationCH_V1</value>
 					</IliRepository09.ModelName_>
-					<IliRepository09.ModelName_>
+					<!--IliRepository09.ModelName_>
 						<value>Waldreservate_Codelisten_V1_1</value>
-					</IliRepository09.ModelName_>
+					</IliRepository09.ModelName_-->
 				</dependsOnModel>
 				<Title>Waldgrenzen Kanton Appenzell I.Rh., Geobasisdatensatz Nr. 157</Title>
 				<Tags/>
 				<Issuer>https://models.geo.ai.ch/OFA</Issuer>
 				<technicalContact>mailto:geoinformation@ai.ch</technicalContact>
 				<furtherInformation>https://geo.ai.ch</furtherInformation>
-				<md5>249495226dffefc8ed6a2d35d7bccb5d</md5>
+				<md5>1aa9b29dcd5ea25647c8442d52bdb11d</md5>
 			</IliRepository09.RepositoryIndex.ModelMetadata>
 
 			<IliRepository09.RepositoryIndex.ModelMetadata TID="AI006204">
