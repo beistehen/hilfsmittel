@@ -15,7 +15,7 @@
         <technicalContact>mailto:geoportal@sz.ch</technicalContact>
         <parentSite>
           <IliSite09.RepositoryLocation_>
-            <value>http://models.geo.kgk-cgc.ch/</value>
+            <value>https://models.kgk-cgc.ch</value>
           </IliSite09.RepositoryLocation_>
         </parentSite>
         <subsidiarySite>
