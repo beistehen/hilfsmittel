@@ -2085,6 +2085,42 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>48399efee3b80663cf40ad28da178288</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026017">
+                <Name>NE_Naturersatzflaechen_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Wald_Flora_Fauna/NE_Naturersatzflaechen_KGDM_V1_0_LV95.ili</File>
+                <Version>2023-04-26</Version>
+                <publishingDate>2023-10-03</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                  <IliRepository20.ModelName_>
+                    <value>OR_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>95f6a0e31daf9535a37b6e2831c1f6a4</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS026019">
+                <Name>WR_Waldreservate_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Wald_Flora_Fauna/WR_Waldreservate_KGDM_V1_0_LV95.ili</File>
+                <Version>2023-04-28</Version>
+                <publishingDate>2023-10-03</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                  <IliRepository20.ModelName_>
+                    <value>OR_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>e067bd6f2aa2a797da20529e67264bbe</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Wasser_und_Abfallsysteme          BS027xxx       -->
             <!--  ===============================================  -->
