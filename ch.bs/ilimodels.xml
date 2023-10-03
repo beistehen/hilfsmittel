@@ -335,6 +335,21 @@
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>dca79532fb02a633eb9e1c85aa6ebd98</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
+            <IliRepository20.RepositoryIndex.ModelMetadata TID="BS006004">
+                <Name>EF_Energieflussschemas_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Energie/EF_Energieflussschemas_KGDM_V1_0_LV95.ili</File>
+                <Version>2023-08-29</Version>
+                <publishingDate>2023-10-03</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>02ae97297eccca075000a58c21425db6</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gebaeude_Anlagen                  BS007xxx       -->
             <!--  ===============================================  -->
@@ -664,6 +679,21 @@
                 <Issuer>https://www.geo.bs.ch</Issuer>
                 <technicalContact>mailto:geo@bs.ch</technicalContact>
                 <md5>6029389ba510a8fb7bf50a60da3ffacb</md5>
+            </IliRepository20.RepositoryIndex.ModelMetadata>
+			<IliRepository20.RepositoryIndex.ModelMetadata TID="BS010006">
+                <Name>IK_UebertragbareKrankheiten_KGDM_V1_0_LV95</Name>
+                <SchemaLanguage>ili2_3</SchemaLanguage>
+                <File>Gesundheit/IK_UebertragbareKrankheiten_KGDM_V1_0_LV95.ili</File>
+                <Version>2023-07-13</Version>
+                <publishingDate>2023-10-03</publishingDate>
+                <dependsOnModel>
+                  <IliRepository20.ModelName_>
+                    <value>BS_Basis_KGDM_V1_0_LV95</value>
+                  </IliRepository20.ModelName_>
+                </dependsOnModel>
+                <Issuer>https://www.geo.bs.ch</Issuer>
+                <technicalContact>mailto:geo@bs.ch</technicalContact>
+                <md5>b8afaf73bb8f1b835bdb1daf437db94b</md5>
             </IliRepository20.RepositoryIndex.ModelMetadata>
             <!--  ===============================================  -->
             <!--  Gewaesser                         BS011xxx       -->
