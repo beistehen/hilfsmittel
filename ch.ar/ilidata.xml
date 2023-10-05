@@ -41,13 +41,13 @@
         <h3 class="mb-4 calluna">Debug Infos</h3>
     </div>
     <div class="row justify-content-center">
-        <p class="text-center">Server time: Thursday, 05-Oct-2023 12:43:55 CEST</p>
+        <p class="text-center">Server time: Thursday, 05-Oct-2023 18:44:13 CEST</p>
     </div>
     <div class="row justify-content-center">
-        <p class="text-center">Remote address: 185.17.69.120</p>
+        <p class="text-center">Remote address: 2a04:503:0:1004::120</p>
     </div>
     <div class="row justify-content-center">
-        <p class="text-center">Request id: b46d612c134a6e020db545fc57b317cb</p>
+        <p class="text-center">Request id: 45d80f996ee576fe5f576b6077776ba1</p>
     </div>
 </div>
 </body>
