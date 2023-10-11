@@ -9,7 +9,7 @@
     <DatasetIdx16.DataIndex BID="b1">
       <DatasetIdx16.DataIndex.DatasetMetadata TID="1">
         <id>vsa_organisationen</id>
-        <version>2023-09-11</version>
+        <version>2023-10-09</version>
         <owner>mailto:dss-organisation@vsa.ch</owner>
         <title>
           <DatasetIdx16.MultilingualText>
@@ -43,7 +43,7 @@
             <file>
               <DatasetIdx16.File>
                 <path>organisation/vsa_organisationen.xtf</path>
-                <md5>91236753eef65ed16250b3b4122c2bb9</md5>
+                <md5>cd7b9bc20d660c0976c05acc43697ec1</md5>
               </DatasetIdx16.File>
             </file>
           </DatasetIdx16.DataFile>
