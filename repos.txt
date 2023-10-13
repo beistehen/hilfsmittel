@@ -17,7 +17,7 @@ http://models.geo.sh.ch/
 https://geo.so.ch/models/
 https://models.geo.sz.ch/
 https://models.geo.tg.ch/
-http://models.geo.ti.ch/
+# http://models.geo.ti.ch/ - github servers blocked by cantonal firewall (disabled 2023-09-27)
 https://webgis.lisag.ch/models/
 https://models.geo.zg.ch/
 http://models.geo.zh.ch/
